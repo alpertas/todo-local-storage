@@ -1,0 +1,52 @@
+/************************************************************************************/
+
+/* Background Colors
+https://www.colourlovers.com/
+
+palette: https://www.colourlovers.com/color/556270/Mighty_Slate
+color:
+HEX: 556270
+RGB: 85,98,112
+
+*/
+body {
+  background-color: #556270;
+}
+
+/************************************************************************************/
+
+/* OPTIONAL AUTHOR IMAGE STYLE */
+.author-img {
+  border-radius: 50%;
+}
+
+/* Alignment with FLEXBOX  */
+/*
+  Resource that I have used:
+    https://www.w3schools.com/css/css3_flexbox_container.asp
+    https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+*/
+.flex-container-head {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding-top: 8%;
+  margin-top: 5%;
+}
+
+.center-content {
+  align-content: center;
+}
+
+/* Bold 700*/
+#space-mono-bold {
+  font-family: "Space Mono", monospace;
+}
+
+/************************************************************************************/
+
+#align-end {
+  display: flex;
+  margin-top: 1%;
+}
