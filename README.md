@@ -15,7 +15,7 @@ Bootstrap library was used. Some fonts were pulled from Google.
  [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) the project.
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+git clone https://github.com/alpertas/todo-local-storage.git
 ```
 
 ## Usage
